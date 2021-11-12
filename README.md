@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IOnifemi
+- 👀 I’m interested in software dev
+- 🌱 I’m currently learning the fundamentals
